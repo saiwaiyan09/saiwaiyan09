@@ -27,9 +27,6 @@ Multi-VPC AWS networking architecture with Terraform.
 
 **Technologies:** AWS, Terraform, VPC Peering, EC2, Networking
 
-### Kubernetes GitOps Platform
-Coming soon — Kubernetes application deployment with CI/CD and GitOps.
-
 **Technologies:** Kubernetes, Docker, GitHub Actions, Helm, Argo CD
 
 ## 🛠️ Technical Skills
@@ -40,8 +37,9 @@ Coming soon — Kubernetes application deployment with CI/CD and GitOps.
 **CI/CD:** GitHub Actions, Gitlab CI/CD, Jenkins, Argo CD  
 **Operating Systems:** Linux  
 **Networking:** VPC, Subnets, VPN, TCP/IP, DNS, Load Balancing, Firewalls, NCALs, Security Groups  
-**Kubernetes:** Services, Pods & Deployments, ConfigMaps & Secrets, EKS, RBAC, Ingress, Gateway API, HPA
+**Kubernetes:** Services, Pods & Deployments, ConfigMaps & Secrets, EKS, RBAC, Ingress, Gateway API, HPA<br>
 **Monitoring:** Datadog
+
 
 ## 📍 Location
 
