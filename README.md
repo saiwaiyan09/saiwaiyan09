@@ -41,6 +41,7 @@ Coming soon — Kubernetes application deployment with CI/CD and GitOps.
 **Operating Systems:** Linux  
 **Networking:** VPC, Subnets, VPN, TCP/IP, DNS, Load Balancing, Firewalls, NCALs, Security Groups  
 **Kubernetes:** Services, Pods & Deployments, ConfigMaps & Secrets, EKS, RBAC, Ingress, Gateway API, HPA
+**Monitoring:** Datadog
 
 ## 📍 Location
 
