@@ -1,144 +1,52 @@
 # Hi, I'm Sai Wai Yan 👋
 
-### Cloud & Infrastructure Engineer | AWS | Kubernetes | Terraform
+### Cloud & Infrastructure Engineering | AWS · Terraform · Kubernetes · Automation
 
-📍 Bangkok, Thailand
+📍 Bangkok, Thailand &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/saiwaiyan09/) &nbsp;|&nbsp; [GitHub](https://github.com/saiwaiyan09)
 
-I'm an IT Infrastructure professional transitioning into
-**Cloud, Platform, and DevOps Engineering**.
+I’m an IT infrastructure professional building toward Cloud, DevOps, and Platform Engineering. My background in IT operations, networking, end-user support, and troubleshooting informs how I design and test cloud infrastructure.
 
-My background includes IT infrastructure support, networking,
-Linux administration, and troubleshooting.
+I build hands-on projects involving **AWS infrastructure, infrastructure as code, Kubernetes, configuration management, serverless applications, and CI/CD**. My repositories document architecture decisions, implementation steps, and lessons learned.
 
-I focus on designing, deploying, and automating cloud infrastructure
-using **AWS, Terraform, Ansible, Docker, and Kubernetes**.
+## Featured Projects
 
-I enjoy building hands-on projects that demonstrate real-world
-cloud architecture, infrastructure automation, microservices,
-and operational troubleshooting.
+| Project | What I built | Stack |
+| --- | --- | --- |
+| **[AWS EKS Infrastructure with Terraform](https://github.com/saiwaiyan09/aws-eks-terraform-base)** | Provisioned an EKS environment with Terraform, a custom multi-AZ VPC, private worker nodes, and AWS Load Balancer Controller integration. | AWS · EKS · Terraform · VPC · IAM · Kubernetes |
+| **[Docker Optimization & CI/CD for Bookinfo](https://github.com/saiwaiyan09/bookinfo-docker-cicd)** | Compared Docker build approaches and image characteristics for Bookinfo microservices, with automated image builds through GitHub Actions. | Docker · Buildx · GitHub Actions · CI/CD |
+| **[AWS Serverless Bookinfo](https://github.com/saiwaiyan09/aws-serverless-bookinfo)** | Adapted the Bookinfo sample into four AWS Lambda services using Python, Java, Ruby, and Node.js, exposed through API Gateway. | AWS Lambda · API Gateway · IAM · CloudWatch |
+| **[AWS Infrastructure Automation](https://github.com/saiwaiyan09/ansible-automation-infra)** | Combined Terraform infrastructure provisioning with Ansible configuration and application deployment; includes local Vagrant-based practice. | Terraform · Ansible · EC2 · Linux · SSH |
+| **[AWS Multi-VPC Microservices](https://github.com/saiwaiyan09/terraform-aws-multi-vpc-microservices)** | Explored network isolation and subnet routing with Terraform modules and microservices across AWS VPCs. | AWS · Terraform · VPC · Routing · EC2 |
 
----
+**Additional project:** [Dashboard & Counting App — AWS Infrastructure](https://github.com/saiwaiyan09/dashboard-counting-app-v0) — Terraform-based multi-tier networking and EC2 deployment for two services.
 
-## 🏅 Certifications
+## Technical Skills
 
-- ☸️ **Certified Kubernetes Administrator (CKA)** — CNCF / Linux Foundation
-- ☁️ **AWS Certified Solutions Architect – Associate** — AWS
-- 🏗️ **HashiCorp Terraform Associate** — HashiCorp *(confirm certification status)*
+| Area | Technologies |
+| --- | --- |
+| **Cloud & Infrastructure** | AWS (EC2, VPC, IAM, EKS, Lambda, API Gateway, CloudWatch); exposure to Azure and GCP |
+| **Infrastructure as Code & Automation** | Terraform, Ansible, AWS CLI, Bash |
+| **Containers & Kubernetes** | Docker, Kubernetes, Amazon EKS, Services, Ingress, Gateway API, RBAC |
+| **CI/CD & Delivery** | GitHub Actions, Docker Buildx, Git; learning GitOps practices |
+| **Systems & Networking** | Linux, Windows Server, TCP/IP, DNS, VPN, routing, firewalls, security groups, load balancing |
+| **Application & Serverless Labs** | Python, Java, Ruby, Node.js, AWS Lambda, REST APIs |
 
----
+## Certifications
 
-## 🚀 Featured Projects
+- **Certified Kubernetes Administrator (CKA)** — CNCF / Linux Foundation
+- **AWS Certified Solutions Architect – Associate** — Amazon Web Services
+- **Terraform Associate (004)** — Hashicorp 
 
-### 1. AWS Serverless Bookinfo — Microservices Migration
+<!-- Add HashiCorp Terraform Associate here once its earned status is confirmed. -->
 
-**[GitHub Repository](https://github.com/saiwaiyan09/aws-serverless-bookinfo)** |
-**[Live Application](https://2jw7xj78g8.execute-api.ap-southeast-1.amazonaws.com/productpage)**
+## What I'm Working On
 
-Migrated the Istio Bookinfo sample application from a
-container-based microservices architecture to AWS Lambda.
+- Improving AWS architecture, networking, and infrastructure automation skills.
+- Practicing Kubernetes operations, troubleshooting, and cloud-native delivery.
+- Building reproducible projects with clear READMEs, diagrams, and test evidence.
 
-- Deployed four independent Lambda microservices using
-  Python, Java, Ruby, and Node.js.
-- Implemented HTTP-based service-to-service communication
-  through a shared Amazon API Gateway HTTP API.
-- Configured IAM execution roles, Lambda environment variables,
-  and API Gateway integrations.
-- Troubleshot Lambda packaging, runtime configuration,
-  backend timeouts, and static asset routing.
-- Validated the application through unit tests,
-  API integration testing, and browser verification.
+## Connect
 
-**Technologies:** AWS Lambda, Amazon API Gateway, IAM,
-CloudWatch, Python, Java, Ruby, Node.js, REST APIs
+I'm interested in **Cloud Engineer, Infrastructure Engineer, DevOps Engineer, and Platform Engineering** opportunities in Thailand.
 
----
-
-### 2. AWS EKS Infrastructure with Terraform
-
-**[GitHub Repository](https://github.com/saiwaiyan09/aws-eks-terraform-base)**
-
-Built an AWS Kubernetes infrastructure environment using
-Terraform to practice cloud-native infrastructure provisioning
-and Kubernetes administration.
-
-- Provisioned AWS infrastructure using Terraform.
-- Worked with Amazon EKS, VPC networking, IAM, and Kubernetes.
-- Explored infrastructure configuration and Kubernetes workloads.
-- Practiced cloud infrastructure deployment and troubleshooting.
-
-**Technologies:** AWS, EKS, Terraform, VPC, IAM, Kubernetes
-
----
-
-### 3. AWS Infrastructure Automation with Terraform & Ansible
-
-**[GitHub Repository](https://github.com/saiwaiyan09/ansible-automation-infra)**
-
-Developed an infrastructure automation project combining
-Terraform provisioning with Ansible configuration management.
-
-- Provisioned AWS EC2 infrastructure using Terraform.
-- Automated server configuration and application deployment
-  using Ansible playbooks.
-- Configured SSH-based communication with EC2 instances.
-- Practiced infrastructure lifecycle management and
-  repeatable deployments.
-
-**Technologies:** AWS, EC2, Terraform, Ansible, Linux, SSH
-
----
-
-### 4. AWS Multi-VPC Networking Lab
-
-Designed and tested a multi-account AWS networking environment
-to strengthen cloud networking and troubleshooting skills.
-
-- Worked with three AWS accounts and nine VPCs.
-- Configured VPC peering and routing between networks.
-- Implemented security groups and network access controls.
-- Tested connectivity between Linux and Windows EC2 instances.
-- Troubleshot routing, firewall rules, and private connectivity.
-
-**Technologies:** AWS, VPC, VPC Peering, EC2, Route Tables,
-Security Groups, Cloud Networking
-
----
-
-## 🛠️ Technical Skills
-
-| Category | Technologies |
-|---|---|
-| **Cloud Platforms** | AWS, Azure, GCP |
-| **Infrastructure as Code** | Terraform |
-| **Configuration Management** | Ansible |
-| **Containers & Orchestration** | Docker, Kubernetes, Amazon EKS |
-| **CI/CD Tools** | GitHub Actions, GitLab CI/CD, Jenkins, Argo CD |
-| **Operating Systems** | Linux, Windows Server |
-| **Networking** | VPC, Subnets, VPN, TCP/IP, DNS, Load Balancing, Firewalls, NACLs, Security Groups |
-| **Kubernetes** | Pods, Deployments, Services, RBAC, Ingress, Gateway API, ConfigMaps, Secrets, HPA |
-| **Monitoring & Logging** | Amazon CloudWatch, Datadog |
-| **Automation & Tools** | Git, GitHub, Bash, AWS CLI |
-| **Serverless** | AWS Lambda, Amazon API Gateway |
-
----
-
-## 🎯 Currently Focused On
-
-- Strengthening AWS Cloud Architecture and Infrastructure Engineering skills.
-- Building hands-on infrastructure automation projects.
-- Improving Kubernetes administration and troubleshooting.
-- Learning cloud-native CI/CD and GitOps practices.
-- Developing production-oriented Cloud and DevOps engineering skills.
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in opportunities involving:
-
-**Cloud Engineering | Infrastructure Engineering | DevOps | Platform Engineering**
-
-📍 Based in Bangkok, Thailand
-
-Explore my repositories to see my hands-on projects,
-architecture documentation, and infrastructure automation work.
+[LinkedIn](https://www.linkedin.com/in/saiwaiyan09/) · [GitHub Projects](https://github.com/saiwaiyan09?tab=repositories)
